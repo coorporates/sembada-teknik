@@ -540,6 +540,12 @@
   color: var(--primary);
 }
 
+.footer-email a,
+.footer-contact a,
+.footer-alamat a {
+  color: #ffffff;
+}
+
 .container-contact {
   justify-content: center;
 }
